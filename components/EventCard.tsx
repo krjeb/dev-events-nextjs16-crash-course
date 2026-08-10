@@ -25,7 +25,9 @@ const EventCard = ({
     <Link
       href={`/events`}
       id="event-card"
-      onClick={() => posthog.capture("event_details_opened", { event_slug: slug })}
+      onClick={() =>
+        posthog.capture("event_details_opened", { event_slug: slug })
+      }
     >
       <Image
         src={image}
