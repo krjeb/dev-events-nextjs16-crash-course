@@ -22,13 +22,7 @@ const EventCard = ({
   time,
 }: EventCardProps) => {
   return (
-    <Link
-      href={`/events`}
-      id="event-card"
-      onClick={() =>
-        posthog.capture("event_details_opened", { event_slug: slug })
-      }
-    >
+    <Link href={`/events/${slug}`} id="event-card">
       <Image
         src={image}
         alt={title}
