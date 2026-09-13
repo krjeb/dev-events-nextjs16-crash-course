@@ -10,7 +10,7 @@ A production-ready full-stack event discovery and management platform built with
 
 ## Acknowledgements & Credits
 
-- **Original Project Tutorial:** Built following the full-stack Next.js course by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) ([Watch on YouTube](https://youtu.be/I1V9YWqRIeI?is=HKm7kqmsmMy4Xaz-)).
+**Original Project Tutorial:** Built following the full-stack Next.js course by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) ([Watch on YouTube](https://youtu.be/I1V9YWqRIeI?is=HKm7kqmsmMy4Xaz-)).
 
 ## Key Improvements & Refactoring (Beyond the Tutorial)
 
